@@ -3,7 +3,6 @@
 
 # In[ ]:
 
-
 import requests as r
 import pandas as pd
 import numpy as np
@@ -17,7 +16,6 @@ import google_bq_utils as bqu
 sys.path.pop()
 
 import time
-
 
 # In[ ]:
 
